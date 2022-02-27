@@ -1,0 +1,17 @@
+body{
+    background-color: #225;
+}
+
+h1{
+    font-color: yellow;
+}
+
+main{
+    display: flex;
+    background: white;
+    border-radius: 5px;
+}
+
+form{
+  
+}
